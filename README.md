@@ -3,7 +3,9 @@
 This repository is created as a submission for **Assignment-6 (UCS654)**.
 
 **Submitted by:**  
-Dhruv Sethi (102303785)
+Dhruv Sethi 
+Roll Number - 102303785
+3C54
 
 ---
 
@@ -100,6 +102,16 @@ The TOPSIS results are available in:
 
 - `topsis_result.csv`
 
+ ###  Model Comparison & TOPSIS Results
+
+| Model | RMSE | R2 Score | Training Time (s) | Prediction Time (s) | TOPSIS Score | Rank |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **KNN** ⭐ | 21.1102 | 0.9667 | 0.0022 | 0.0028 | 0.9751 | **1** |
+| **Decision Tree** | 33.4141 | 0.9166 | 0.0074 | 0.0026 | 0.8679 | **2** |
+| **Gradient Boosting** | 23.1225 | 0.9601 | 0.2197 | 0.0029 | 0.8099 | **3** |
+| **Linear Regression** | 61.7450 | 0.7152 | 0.0030 | 0.0016 | 0.6076 | **4** |
+| **Random Forest** | 22.8439 | 0.9610 | 0.5238 | 0.0194 | 0.5490 | **5** |
+| **SVR** | 87.9212 | 0.4225 | 0.0584 | 0.0148 | 0.3515 | **6** | 
 ---
 
 ## 🏆 Final Result
