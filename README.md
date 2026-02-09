@@ -2,12 +2,10 @@
 
 This repository is created as a submission for **Assignment-6 (UCS654)**.
 
-**Submitted by:**  
-Dhruv Sethi 
-
-Roll Number - 102303785
-
-3C54
+**Submitted by:**
+- **Name:** Dhruv Sethi
+- **Roll Number:** 102303785
+- **SubGroup:** 3C54
 
 ---
 
